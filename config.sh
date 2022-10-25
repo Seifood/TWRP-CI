@@ -7,7 +7,7 @@ export TWRP_BRANCH="twrp-12.1"
 export DT_LINK="https://github.com/Seifood/device_xiaomi_iris.git -b twrp-12.1"
 
 export DEVICE="iris"
-export OEM="redmi"
+export OEM="xiaomi"
 #export PLATFORM="msm8998"
 export TARGET="bootimage"
 export TW_DEVICE_VERSION="1"
