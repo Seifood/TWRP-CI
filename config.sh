@@ -10,7 +10,7 @@ export DEVICE="iris"
 export OEM="xiaomi"
 #export PLATFORM="msm8998"
 export TARGET="bootimage"
-export TW_DEVICE_VERSION="1"
+export TW_DEVICE_VERSION="2"
 export OUTPUT="boot.img"
 export FILENAME="twrp*.img"
 
