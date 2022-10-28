@@ -4,7 +4,7 @@
 export TWRP_MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp"
 export TWRP_BRANCH="twrp-12.1"
 #export TWRP_BRANCH="twrp-test"
-export DT_LINK="https://github.com/Seifood/device_xiaomi_iris.git -b test"
+export DT_LINK="https://github.com/Seifood/device_xiaomi_iris.git -b twrp-12.1"
 
 export DEVICE="iris"
 export OEM="xiaomi"
